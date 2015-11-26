@@ -586,6 +586,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = xfq2/PrefixHeader.pch;
 				INFOPLIST_FILE = xfq2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = a.xfq2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -604,6 +605,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = xfq2/PrefixHeader.pch;
 				INFOPLIST_FILE = xfq2/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = a.xfq2;
 				PRODUCT_NAME = "$(TARGET_NAME)";
